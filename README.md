@@ -1,1 +1,16 @@
-# bijstandsuitkering-amputation
+---------------------------------
+| bijstandsuitkering-amputation |
+---------------------------------
+
+
+# neues volk
+https://en.wikipedia.org/wiki/Neues_Volk
+
+# ahmed aboutaleb
+https://nl.wikipedia.org/wiki/Ahmed_Aboutaleb
+
+# amputation
+https://de.wikipedia.org/wiki/Amputation
+
+# wet werk en bijstand
+https://nl.wikipedia.org/wiki/Wet_werk_en_bijstand
